@@ -1,0 +1,802 @@
+[
+  {
+    "city": "Shanghai",
+    "latitude": 31.22222,
+    "longitude": 121.45806,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 24874500
+  },
+  {
+    "city": "Chongqing",
+    "latitude": 29.56026,
+    "longitude": 106.55771,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 22000000
+  },
+  {
+    "city": "Chengdu",
+    "latitude": 30.66667,
+    "longitude": 104.06667,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 20937757
+  },
+  {
+    "city": "Beijing",
+    "latitude": 39.9075,
+    "longitude": 116.39723,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 18960744
+  },
+  {
+    "city": "Guangzhou",
+    "latitude": 23.11667,
+    "longitude": 113.25,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 18676605
+  },
+  {
+    "city": "Shenzhen",
+    "latitude": 22.54554,
+    "longitude": 114.0683,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 17494398
+  },
+  {
+    "city": "Kinshasa",
+    "latitude": -4.32758,
+    "longitude": 15.31357,
+    "region": "CD",
+    "timezone": "Africa/Kinshasa",
+    "population": 16000000
+  },
+  {
+    "city": "Istanbul",
+    "latitude": 41.01384,
+    "longitude": 28.94966,
+    "region": "TR",
+    "timezone": "Europe/Istanbul",
+    "population": 15701602
+  },
+  {
+    "city": "Lagos",
+    "latitude": 6.45407,
+    "longitude": 3.39467,
+    "region": "NG",
+    "timezone": "Africa/Lagos",
+    "population": 15388000
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "latitude": 10.82302,
+    "longitude": 106.62965,
+    "region": "VN",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 14002598
+  },
+  {
+    "city": "Tianjin",
+    "latitude": 39.14222,
+    "longitude": 117.17667,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 13866009
+  },
+  {
+    "city": "Wuhan",
+    "latitude": 30.58333,
+    "longitude": 114.26667,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 13739000
+  },
+  {
+    "city": "Lahore",
+    "latitude": 31.558,
+    "longitude": 74.35071,
+    "region": "PK",
+    "timezone": "Asia/Karachi",
+    "population": 13004135
+  },
+  {
+    "city": "Xi’an",
+    "latitude": 34.25833,
+    "longitude": 108.92861,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 12952907
+  },
+  {
+    "city": "Mumbai",
+    "latitude": 19.07283,
+    "longitude": 72.88261,
+    "region": "IN",
+    "timezone": "Asia/Kolkata",
+    "population": 12691836
+  },
+  {
+    "city": "São Paulo",
+    "latitude": -23.5475,
+    "longitude": -46.63611,
+    "region": "BR",
+    "timezone": "America/Sao_Paulo",
+    "population": 12400232
+  },
+  {
+    "city": "Mexico City",
+    "latitude": 19.42847,
+    "longitude": -99.12766,
+    "region": "MX",
+    "timezone": "America/Mexico_City",
+    "population": 12294193
+  },
+  {
+    "city": "Hangzhou",
+    "latitude": 30.29365,
+    "longitude": 120.16142,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 11936010
+  },
+  {
+    "city": "Karachi",
+    "latitude": 24.8608,
+    "longitude": 67.0104,
+    "region": "PK",
+    "timezone": "Asia/Karachi",
+    "population": 11624219
+  },
+  {
+    "city": "Delhi",
+    "latitude": 28.65195,
+    "longitude": 77.23149,
+    "region": "IN",
+    "timezone": "Asia/Kolkata",
+    "population": 11034555
+  },
+  {
+    "city": "Moscow",
+    "latitude": 55.75204,
+    "longitude": 37.61781,
+    "region": "RU",
+    "timezone": "Europe/Moscow",
+    "population": 10381222
+  },
+  {
+    "city": "Dhaka",
+    "latitude": 23.7104,
+    "longitude": 90.40744,
+    "region": "BD",
+    "timezone": "Asia/Dhaka",
+    "population": 10356500
+  },
+  {
+    "city": "Seoul",
+    "latitude": 37.566,
+    "longitude": 126.9784,
+    "region": "KR",
+    "timezone": "Asia/Seoul",
+    "population": 10349312
+  },
+  {
+    "city": "Harbin",
+    "latitude": 45.75,
+    "longitude": 126.65,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 10009854
+  },
+  {
+    "city": "Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.69171,
+    "region": "JP",
+    "timezone": "Asia/Tokyo",
+    "population": 9733276
+  },
+  {
+    "city": "Dongguan",
+    "latitude": 23.01797,
+    "longitude": 113.74866,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 9644871
+  },
+  {
+    "city": "Cairo",
+    "latitude": 30.06263,
+    "longitude": 31.24967,
+    "region": "EG",
+    "timezone": "Africa/Cairo",
+    "population": 9606916
+  },
+  {
+    "city": "Hefei",
+    "latitude": 31.86389,
+    "longitude": 117.28083,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 9465881
+  },
+  {
+    "city": "Johannesburg",
+    "latitude": -26.20227,
+    "longitude": 28.04363,
+    "region": "ZA",
+    "timezone": "Africa/Johannesburg",
+    "population": 9418183
+  },
+  {
+    "city": "Weifang",
+    "latitude": 36.71,
+    "longitude": 119.10194,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 9386705
+  },
+  {
+    "city": "Nanjing",
+    "latitude": 32.06167,
+    "longitude": 118.77778,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 9314685
+  },
+  {
+    "city": "Shenyang",
+    "latitude": 41.79222,
+    "longitude": 123.43278,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 9070093
+  },
+  {
+    "city": "Foshan",
+    "latitude": 23.02677,
+    "longitude": 113.13148,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 9042509
+  },
+  {
+    "city": "London",
+    "latitude": 51.50853,
+    "longitude": -0.12574,
+    "region": "GB",
+    "timezone": "Europe/London",
+    "population": 8961989
+  },
+  {
+    "city": "New York City",
+    "latitude": 40.71427,
+    "longitude": -74.00597,
+    "region": "NY",
+    "timezone": "America/New_York",
+    "population": 8804190
+  },
+  {
+    "city": "Jakarta",
+    "latitude": -6.21462,
+    "longitude": 106.84513,
+    "region": "ID",
+    "timezone": "Asia/Jakarta",
+    "population": 8540121
+  },
+  {
+    "city": "Bengaluru",
+    "latitude": 12.97194,
+    "longitude": 77.59369,
+    "region": "IN",
+    "timezone": "Asia/Kolkata",
+    "population": 8495492
+  },
+  {
+    "city": "Jinan",
+    "latitude": 36.66833,
+    "longitude": 116.99722,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 8352574
+  },
+  {
+    "city": "Hanoi",
+    "latitude": 21.0245,
+    "longitude": 105.84117,
+    "region": "VN",
+    "timezone": "Asia/Bangkok",
+    "population": 8053663
+  },
+  {
+    "city": "Taipei",
+    "latitude": 25.05306,
+    "longitude": 121.52639,
+    "region": "TW",
+    "timezone": "Asia/Taipei",
+    "population": 7871900
+  },
+  {
+    "city": "Lima",
+    "latitude": -12.04318,
+    "longitude": -77.02824,
+    "region": "PE",
+    "timezone": "America/Lima",
+    "population": 7737002
+  },
+  {
+    "city": "Bogotá",
+    "latitude": 4.60971,
+    "longitude": -74.08175,
+    "region": "CO",
+    "timezone": "America/Bogota",
+    "population": 7674366
+  },
+  {
+    "city": "Dalian",
+    "latitude": 38.91222,
+    "longitude": 121.60222,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 7450785
+  },
+  {
+    "city": "Hong Kong",
+    "latitude": 22.27832,
+    "longitude": 114.17469,
+    "region": "HK",
+    "timezone": "Asia/Hong_Kong",
+    "population": 7396076
+  },
+  {
+    "city": "Baghdad",
+    "latitude": 33.34058,
+    "longitude": 44.40088,
+    "region": "IQ",
+    "timezone": "Asia/Baghdad",
+    "population": 7216000
+  },
+  {
+    "city": "Qingdao",
+    "latitude": 36.06488,
+    "longitude": 120.38042,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 7172451
+  },
+  {
+    "city": "Tehran",
+    "latitude": 35.69439,
+    "longitude": 51.42151,
+    "region": "IR",
+    "timezone": "Asia/Tehran",
+    "population": 7153309
+  },
+  {
+    "city": "Yantai",
+    "latitude": 37.47649,
+    "longitude": 121.44081,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 7102100
+  },
+  {
+    "city": "Hyderabad",
+    "latitude": 17.38405,
+    "longitude": 78.45636,
+    "region": "IN",
+    "timezone": "Asia/Kolkata",
+    "population": 6993262
+  },
+  {
+    "city": "Rio de Janeiro",
+    "latitude": -22.90642,
+    "longitude": -43.18223,
+    "region": "BR",
+    "timezone": "America/Sao_Paulo",
+    "population": 6747815
+  },
+  {
+    "city": "Suzhou",
+    "latitude": 31.30408,
+    "longitude": 120.59538,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 6715559
+  },
+  {
+    "city": "Zhengzhou",
+    "latitude": 34.75778,
+    "longitude": 113.64861,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 6650532
+  },
+  {
+    "city": "Ahmedabad",
+    "latitude": 23.02579,
+    "longitude": 72.58727,
+    "region": "IN",
+    "timezone": "Asia/Kolkata",
+    "population": 6357693
+  },
+  {
+    "city": "Abidjan",
+    "latitude": 5.35444,
+    "longitude": -4.00167,
+    "region": "CI",
+    "timezone": "Africa/Abidjan",
+    "population": 6321017
+  },
+  {
+    "city": "Nanning",
+    "latitude": 22.81667,
+    "longitude": 108.31667,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 5977185
+  },
+  {
+    "city": "Kunming",
+    "latitude": 25.03889,
+    "longitude": 102.71833,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 5950578
+  },
+  {
+    "city": "Shijiazhuang",
+    "latitude": 38.04139,
+    "longitude": 114.47861,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 5758403
+  },
+  {
+    "city": "Changchun",
+    "latitude": 43.88,
+    "longitude": 125.32278,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 5691024
+  },
+  {
+    "city": "Sydney",
+    "latitude": -33.86785,
+    "longitude": 151.20732,
+    "region": "AU",
+    "timezone": "Australia/Sydney",
+    "population": 5638830
+  },
+  {
+    "city": "Singapore",
+    "latitude": 1.28967,
+    "longitude": 103.85007,
+    "region": "SG",
+    "timezone": "Asia/Singapore",
+    "population": 5638700
+  },
+  {
+    "city": "Melbourne",
+    "latitude": -37.814,
+    "longitude": 144.96332,
+    "region": "AU",
+    "timezone": "Australia/Melbourne",
+    "population": 5435590
+  },
+  {
+    "city": "Dar es Salaam",
+    "latitude": -6.82349,
+    "longitude": 39.26951,
+    "region": "TZ",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 5383728
+  },
+  {
+    "city": "Saint Petersburg",
+    "latitude": 59.93863,
+    "longitude": 30.31413,
+    "region": "RU",
+    "timezone": "Europe/Moscow",
+    "population": 5351935
+  },
+  {
+    "city": "Taiyuan",
+    "latitude": 37.86944,
+    "longitude": 112.56028,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 5305061
+  },
+  {
+    "city": "Alexandria",
+    "latitude": 31.20176,
+    "longitude": 29.91582,
+    "region": "EG",
+    "timezone": "Africa/Cairo",
+    "population": 5263542
+  },
+  {
+    "city": "Bangkok",
+    "latitude": 13.75398,
+    "longitude": 100.50144,
+    "region": "TH",
+    "timezone": "Asia/Bangkok",
+    "population": 5104476
+  },
+  {
+    "city": "Kano",
+    "latitude": 12.00012,
+    "longitude": 8.51672,
+    "region": "NG",
+    "timezone": "Africa/Lagos",
+    "population": 4910000
+  },
+  {
+    "city": "Santiago",
+    "latitude": -33.45694,
+    "longitude": -70.64827,
+    "region": "CL",
+    "timezone": "America/Santiago",
+    "population": 4837295
+  },
+  {
+    "city": "Cape Town",
+    "latitude": -33.92584,
+    "longitude": 18.42322,
+    "region": "ZA",
+    "timezone": "Africa/Johannesburg",
+    "population": 4772846
+  },
+  {
+    "city": "Peshawar",
+    "latitude": 34.008,
+    "longitude": 71.57849,
+    "region": "PK",
+    "timezone": "Asia/Karachi",
+    "population": 4758762
+  },
+  {
+    "city": "Zibo",
+    "latitude": 36.79056,
+    "longitude": 118.06333,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 4704138
+  },
+  {
+    "city": "Jeddah",
+    "latitude": 21.49012,
+    "longitude": 39.18624,
+    "region": "SA",
+    "timezone": "Asia/Riyadh",
+    "population": 4697000
+  },
+  {
+    "city": "Chennai",
+    "latitude": 13.08784,
+    "longitude": 80.27847,
+    "region": "IN",
+    "timezone": "Asia/Kolkata",
+    "population": 4681087
+  },
+  {
+    "city": "Kolkata",
+    "latitude": 22.56263,
+    "longitude": 88.36304,
+    "region": "IN",
+    "timezone": "Asia/Kolkata",
+    "population": 4631392
+  },
+  {
+    "city": "Xiamen",
+    "latitude": 24.47979,
+    "longitude": 118.08187,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 4617251
+  },
+  {
+    "city": "Surat",
+    "latitude": 21.19594,
+    "longitude": 72.83023,
+    "region": "IN",
+    "timezone": "Asia/Kolkata",
+    "population": 4591246
+  },
+  {
+    "city": "Yangzhou",
+    "latitude": 32.39722,
+    "longitude": 119.43583,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 4559797
+  },
+  {
+    "city": "Huai'an",
+    "latitude": 33.58861,
+    "longitude": 119.01917,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 4556230
+  },
+  {
+    "city": "Guiyang",
+    "latitude": 26.58333,
+    "longitude": 106.71667,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 4506134
+  },
+  {
+    "city": "Yangon",
+    "latitude": 16.80528,
+    "longitude": 96.15611,
+    "region": "MM",
+    "timezone": "Asia/Yangon",
+    "population": 4477638
+  },
+  {
+    "city": "Kabul",
+    "latitude": 34.52813,
+    "longitude": 69.17233,
+    "region": "AF",
+    "timezone": "Asia/Kabul",
+    "population": 4434550
+  },
+  {
+    "city": "Nairobi",
+    "latitude": -1.28333,
+    "longitude": 36.81667,
+    "region": "KE",
+    "timezone": "Africa/Nairobi",
+    "population": 4397073
+  },
+  {
+    "city": "Wuxi",
+    "latitude": 31.56887,
+    "longitude": 120.28857,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 4396835
+  },
+  {
+    "city": "Giza",
+    "latitude": 30.00944,
+    "longitude": 31.20861,
+    "region": "EG",
+    "timezone": "Africa/Cairo",
+    "population": 4367343
+  },
+  {
+    "city": "Lanzhou",
+    "latitude": 36.05701,
+    "longitude": 103.83987,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 4359446
+  },
+  {
+    "city": "Bamako",
+    "latitude": 12.60915,
+    "longitude": -7.97522,
+    "region": "ML",
+    "timezone": "Africa/Bamako",
+    "population": 4227569
+  },
+  {
+    "city": "Riyadh",
+    "latitude": 24.68773,
+    "longitude": 46.72185,
+    "region": "SA",
+    "timezone": "Asia/Riyadh",
+    "population": 4205961
+  },
+  {
+    "city": "Fuzhou",
+    "latitude": 26.06139,
+    "longitude": 119.30611,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 4094491
+  },
+  {
+    "city": "Ürümqi",
+    "latitude": 43.80096,
+    "longitude": 87.60046,
+    "region": "CN",
+    "timezone": "Asia/Urumqi",
+    "population": 4054000
+  },
+  {
+    "city": "New Taipei City",
+    "latitude": 25.06199,
+    "longitude": 121.45703,
+    "region": "TW",
+    "timezone": "Asia/Taipei",
+    "population": 4004367
+  },
+  {
+    "city": "Chattogram",
+    "latitude": 22.3384,
+    "longitude": 91.83168,
+    "region": "BD",
+    "timezone": "Asia/Dhaka",
+    "population": 3920222
+  },
+  {
+    "city": "Addis Ababa",
+    "latitude": 9.02497,
+    "longitude": 38.74689,
+    "region": "ET",
+    "timezone": "Africa/Addis_Ababa",
+    "population": 3860000
+  },
+  {
+    "city": "Zaozhuang",
+    "latitude": 34.86472,
+    "longitude": 117.55417,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 3855601
+  },
+  {
+    "city": "Zhongshan",
+    "latitude": 22.52306,
+    "longitude": 113.37912,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 3841873
+  },
+  {
+    "city": "Shantou",
+    "latitude": 23.35489,
+    "longitude": 116.67876,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 3838900
+  },
+  {
+    "city": "Los Angeles",
+    "latitude": 34.05223,
+    "longitude": -118.24368,
+    "region": "CA",
+    "timezone": "America/Los_Angeles",
+    "population": 3820914
+  },
+  {
+    "city": "Faisalabad",
+    "latitude": 31.41554,
+    "longitude": 73.08969,
+    "region": "PK",
+    "timezone": "Asia/Karachi",
+    "population": 3800193
+  },
+  {
+    "city": "Dubai",
+    "latitude": 25.07725,
+    "longitude": 55.30927,
+    "region": "AE",
+    "timezone": "Asia/Dubai",
+    "population": 3790000
+  },
+  {
+    "city": "Yokohama",
+    "latitude": 35.43333,
+    "longitude": 139.65,
+    "region": "JP",
+    "timezone": "Asia/Tokyo",
+    "population": 3777491
+  },
+  {
+    "city": "Ningbo",
+    "latitude": 29.87819,
+    "longitude": 121.54945,
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "population": 3731203
+  }
+]

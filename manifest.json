@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "benredrew.dual-city",
+  "name": "Dual City",
+  "version": "1.0.0",
+  "author": "benredrew",
+  "description": "Two cities' weather and local time around today's date, ordered west to east",
+  "kinds": ["bar-widget"],
+  "entryPoints": { "barWidget": "BarWidget.qml" },
+  "barWidget": {
+    "displayName": "Dual City",
+    "description": "Weather and local time for two cities on either side of the date",
+    "category": "Time",
+    "allowMultiple": false,
+    "defaultSection": "center"
+  }
+}
