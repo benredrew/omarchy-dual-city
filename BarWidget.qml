@@ -84,7 +84,7 @@ BarWidget {
 
   Row {
     id: layout
-    spacing: Style.space(18)
+    spacing: Style.space(12)
 
     // Both sides take the wider city's width so the date stays centered on
     // the bar however long either city's readout is.
